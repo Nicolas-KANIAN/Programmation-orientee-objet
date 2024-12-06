@@ -1,0 +1,27 @@
+# Exécutables et binaires compilés
+my_project
+main
+main-debug
+*.exe
+*.out
+*.app
+
+# Objets et bibliothèques
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+
+# Fichiers temporaires générés par les simulations
+Etat_Iteration_*.txt
+
+# Caches et éditeurs
+.vscode/
+.idea/
+.ccls-cache/
+*.swp
+*~
+.DS_Store
+
